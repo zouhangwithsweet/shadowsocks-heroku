@@ -1,1 +1,1 @@
-node local.js -s zh-kexueshangwang.herokuapp.com -l 1080 -m rc4-md5 -k zh -r 80
+node local.js -s zh-kexueshangwang.herokuapp.com -l 1080 -m rc4-md5 -k zh -r 443
